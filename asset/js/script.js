@@ -4,5 +4,5 @@ function saludar(){
 
 function chao(){
 
-    alert("chao");
+    alert("chao no vimoh");
 }
